@@ -22,3 +22,7 @@ class Solution:
             prev_value = value
 
         return total
+
+sol = Solution()
+print(sol.romanToInt("MCMXCIV"))
+
